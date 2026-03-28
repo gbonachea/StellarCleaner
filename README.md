@@ -1,0 +1,2 @@
+# StellarCleaner
+Limpiador de sistema
