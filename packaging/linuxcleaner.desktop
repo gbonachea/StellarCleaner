@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Stellar Cleaner
+GenericName=System Cleaner
+GenericName[es]=Limpiador del Sistema
+Comment[es]=Limpiador profesional del sistema Linux
+Exec=stellarcleaner
+Icon=stellarcleaner
+Terminal=false
+StartupNotify=true
+Categories=System;Utility;
+Keywords=clean;cache;temp;system;disk;
