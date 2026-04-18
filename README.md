@@ -1,2 +1,2 @@
 # StellarCleaner
-Limpiador de sistema
+Limpiador de sistema en C++ y Qt
